@@ -4,11 +4,17 @@
 
 
 ## Contents
+
   > [**Week 1: Hello Python!**](https://github.com/mohanadtalat91/Crash_Course_on_Python/tree/master/Week%20%231)  
+  
   > [**Week 2: Basic Python Syntax**](https://github.com/mohanadtalat91/Crash_Course_on_Python/tree/master/Week%20%232)    
+  
   > [**Week 3: Loops**](https://github.com/mohanadtalat91/Crash_Course_on_Python/tree/master/Week%20%233)
+  
   > [**Week 4: Strings, Lists and Dictionaries**](https://github.com/mohanadtalat91/Crash_Course_on_Python/tree/master/Week%20%234)
+  
   > [**Week 5: Object Oriented Programming (Optional)**](https://github.com/mohanadtalat91/Crash_Course_on_Python/tree/master/Week%20%235)
+  
   > [**Week 6: Final Project**](https://github.com/mohanadtalat91/Crash_Course_on_Python/tree/master/Week%20%236)
 ## Certification
   > ![image](https://github.com/mohanadtalat91/Crash_Course_on_Python/blob/master/Crash%20Course%20on%20Python%20certification.jpg)
